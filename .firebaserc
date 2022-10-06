@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sabkidukan-1234": {
+      "hosting": {
+        "hackathon": [
+          "sabkidukan-1234"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sabkidukan-1234"
+  }
+}

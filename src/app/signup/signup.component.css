@@ -1,0 +1,27 @@
+.callbacks_container {
+	float: left;
+	width: 100%;
+}
+.signupform{
+	background-color: rgb(84, 117, 115);
+	filter: blur(0.1px);
+}
+.login-form-grids1{
+	background-color: rgb(185, 169, 160);
+	border-radius: 52px;
+}
+
+
+input{
+	border-radius: 2px solid black;
+}
+
+.box212{
+	border-radius: 2px solid black;
+}
+  
+   
+  
+   
+
+   
